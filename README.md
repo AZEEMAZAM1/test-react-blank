@@ -1,13 +1,23 @@
-# React + Vite
+# 🚀 React Project Starter – Testing Program
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This was a **testing program** created to understand and experiment with how to start a React project using modern tooling.
 
-Currently, two official plugins are available:
+## 🧪 Purpose
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal of this project is simple:
+> Just to test how to start a React project.
 
-## Expanding the ESLint configuration
+No complex features, no production setup — just a playground to practice bootstrapping a React app.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# test-react-blank
+## 📦 Tech Used
+
+- [React](https://reactjs.org/)
+- [Vite](https://vitejs.dev/) – for super-fast dev setup
+- [Tailwind CSS](https://tailwindcss.com/) (optional, if installed)
+
+## 🚀 How to Run This Project
+
+1. **Clone this repo** (or create a new one if you’re following along).
+2. **Install dependencies**:
+   ```bash
+   npm install
